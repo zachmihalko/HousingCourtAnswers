@@ -1,0 +1,33 @@
+{
+  "name": "housingcourtanswers",
+  "version": "1.0.0",
+  "description": "Theme for housingcourtanswers.org",
+  "main": "index.php",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachmihalko/housingcourtanswers.git"
+  },
+  "author": "Zach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachmihalko/housingcourtanswers/issues"
+  },
+  "homepage": "https://github.com/zachmihalko/housingcourtanswers#readme",
+  "devDependencies": {
+    "animate.css": "^3.5.1",
+    "bootstrap": "^3.3.6",
+    "fastclick": "^1.0.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.3",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.5",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "jquery": "^2.2.3",
+    "validator": "^5.0.0"
+  }
+}
